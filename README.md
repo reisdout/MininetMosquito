@@ -25,7 +25,7 @@ Our Team:
 | 8     | Marcelo Reis da Silva                                         | marcelo.silva.101270@ga.ita.br                      |
 
 # 4. Licence
-This project is under the GPL license. Veja o arquivo LICENSE para mais detalhes.
+This project is under the GPL license.
 
 
 
