@@ -1,5 +1,6 @@
 # MininetMosquito
-# Python-project-Scripts.
+# 1. Project Description
+The Project focuses on developing a system to support a Command and Control (C2) system to help rescue teams job. The scope covers the physical infrastructure and its integration with the apps. To simulate this scenario, minninet wifi will be used, to emulate a drone infrastructure. Those drones will provide a p2p web to transmit information to a central dashboard.
 
 <a href="https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ">
 <img alt="Join us on Slack" src="https://raw.githubusercontent.com/netlify/netlify-cms/master/website/static/img/slack.png" width="165"/>
