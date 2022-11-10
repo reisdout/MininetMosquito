@@ -3,7 +3,7 @@
 The Project focuses on developing a system to support a Command and Control (C2) system to help rescue teams job. The scope covers the physical infrastructure and its integration with the apps. To simulate this scenario, minninet wifi will be used to emulate a drone infrastructure. Those drones will provide a p2p web to transmit information to a central dashboard.
 
 # 2. How to Install and Run the Project
-To install the project we have to emulate a mininet wifi network in a VM. As we can see in the next figure, the drones will be conect to mosquito host via virtual host H1 and with the ineternet by H2. In the VM host we have Mosquito, the project APP to provide the victms data.
+To install the project we have to emulate a mininet wifi network in a VM. As we can see in the next figure, the drones will be conect to host via virtual host H1 and with the ineternet by H2. In the VM host we have Mosquito, the project APP to provide the victms data.
 
 <a href="https://drive.google.com/file/d/101aLUhSkLsTLgXyhA4Bzn639YjLjZkZK/view?usp=share_link">
 <img alt="Installed Project" src="fig/install.png"/>
