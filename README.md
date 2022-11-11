@@ -26,7 +26,7 @@ Our Team:
 | 4     | David González Alanís                                                             | A01661650@tec.mx                      |
 | 5     | Sebastián Íñigo López                                                | A01661179@tec.mx                      |
 | 6     | María Esther Ramírez Cedillo                                                    | A01656060@tec.mx                     |
-| 7     | Fabio Antero de Pulpa Melo Junior                     | fabio.junior@ga.ita.br                      |
+| 7     | Fábio Antero de Pulpa Melo Júnior                     | fabio.junior@ga.ita.br                      |
 | 8     | Marcelo Reis da Silva                                         | marcelo.silva.101270@ga.ita.br                      |
 | 9     | Due Jie Wan                                         |due.wan@ga.ita.br                     |
 
