@@ -1,12 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
+ <img src="../fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
 </p>
+<h2 align="center">GSL Final Course - ITA & Tecnológico de Monterrey</h2>
+<h3 align="center">Command and Control to support System.</h3>
+<h1 align="center">User stories </h1>
 
-
-# GSL Final Course - ITA & Tecnológico de Monterrey
-## Command and Control to support the operations.
-## User stories 
 
 ### 1.US 01
 AS a potential disaster victim,  I´d like to ask for help, by sending my position and my health condition, personal information (name, cell phone number …), and receive the feedback that they were given.   So I can be sure that my helpers can find me.
