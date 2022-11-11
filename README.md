@@ -3,6 +3,7 @@
 The Project focuses on developing a system to support a Command and Control (C2) system to help rescue teams job. The scope covers the physical infrastructure and its integration with the apps. To simulate this scenario, minninet wifi will be used to emulate a drone infrastructure. Those drones will provide a p2p web to transmit information to a central dashboard.
 
 # 2. Motivation
+Emergency responses to natural disasters operations needs a way to execute strategic responses to crises. Command and Control (C2) system is very important in this context and is  "recognized as a mean of mobilizing, organizing, and managing the various actors to integrate roles, rules, responsibilities, and authorities in disaster response tasks"<sup>1</sup>. Such system enables coordination between issuing orders and guidelines, as well as obtaining information on the evolution of the situation and its actions, allowing thus decision-making on time and assertively. Thereby, the definition of a C2 structure and its dissemination among the actors involved in disaster response contributes to the operation’s coordination, especially in the response phase.
 
 # 3. How to Install and Run the Project
 To install the project we have to emulate a mininet wifi network in a VM. As we can see in the next figure, the drones will be conect to host via virtual host H1 and with the ineternet by H2. In the VM host we have Mosquito, the project APP to provide the victms data.
@@ -29,5 +30,7 @@ Our Team:
 # 5. Licence
 This project is under the GPL license.
 
+# 6. References
 
+1. Escudeiro, Andreia, et al. "Command and control system management: a perspective of disaster response actors in Brazil." Production 32 (2022).
 
