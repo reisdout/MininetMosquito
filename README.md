@@ -16,6 +16,8 @@ To install the project we have to emulate a mininet wifi network in a VM. As we 
 # 4. Include Credits
 Our Team:
 
+
+
 | SR No | Name                                                                                                                                           | Contact                                                      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 1     | Adrián Aguilar Sánchez                                    | A01651592@tec.mx                   |
@@ -26,6 +28,7 @@ Our Team:
 | 6     | María Esther Ramírez Cedillo                                                    | A01656060@tec.mx                     |
 | 7     | Fabio Antero de Pulpa Melo Junior                     | fabio.junior@ga.ita.br                      |
 | 8     | Marcelo Reis da Silva                                         | marcelo.silva.101270@ga.ita.br                      |
+| 9     | Due Jie Wan                                         |due.wan@ga.ita.br                     |
 
 # 5. Licence
 This project is under the GPL license.
