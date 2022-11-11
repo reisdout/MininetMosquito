@@ -32,7 +32,7 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |5     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
 |6     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
 |7     |Then                                                                      |The system shows *forward position window*.                              |
-|8     |Given                                                                     |The Agency Operator is focused on the  *<forward position window>*.      |
+|8     |Given                                                                     |The Agency Operator is focused on the  *forward position window*.      |
 |9     |When                                                                      |The Agency Operator selects a rescue team.                               | 
 |10    |And                                                                       |The Agency Operator selects the *send position* button.                  |
 |11    |Then                                                                      |The system sends the position data to the selected team.                 |
@@ -49,7 +49,7 @@ As State official, I want to receive the position and the victims data, so we ca
 |5     |Given                                                                         |The State official is focused on the map of operation.               |
 |6     |When                                                                          |The State official double clicks the blinking icon.                  |
 |7     |Then                                                                          |The system shows a <report window> with the position.                |
-|8     |Given                                                                         |The State official is focused on the  *<report window>*.             |
+|8     |Given                                                                         |The State official is focused on the  *report window*.             |
 |9     |When                                                                          |The State official push <position received> button.                  |
 |10    |Then                                                                          |The system records the position data was received.                   |
 
