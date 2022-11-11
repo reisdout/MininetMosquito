@@ -3,7 +3,7 @@
  <img src="../fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
 </p>
 <h2 align="center">GSL Final Course - ITA & Tecnológico de Monterrey</h2>
-<h3 align="center">Command and Control support System.</h3>
+<h3 align="center">Command and Control support System</h3>
 <h1 align="center">User stories </h1>
 
 
