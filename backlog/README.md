@@ -1,8 +1,8 @@
-GSL Final Course - ITA & Tecnológico de Monterrey
-Command and Control to support the operations.
-User stories 
+# GSL Final Course - ITA & Tecnológico de Monterrey
+## Command and Control to support the operations.
+## User stories 
 
-# 1.US 01
+### 1.US 01
 AS a potential disaster victim,  I´d like to ask for help, by sending my position and my health condition, personal information (name, cell phone number …), and receive the feedback that they were given.   So I can be sure that my helpers can find me.
 
 | SR No | Statements                                                                                                                                           | Description                                                      |
@@ -15,7 +15,7 @@ AS a potential disaster victim,  I´d like to ask for help, by sending my positi
 | 6     | When                                                   | The confirmation was received.                    |
 | 7     | Then                    | The system confirms to the victim that his data was given.                      |
 
-# 2.US 02
+### 2.US 02
 As an Agency Operator, I´d like to know, in real time, the people's position,  personal information (name, cell phone number …)  and condition and forward it to the rescue team and track the situation of each of them. So we can control each rescue mission and try to elaborate a list of potential victims.
 
 | SR No | Statements                                                                                                                                           | Description                                                      |
@@ -33,7 +33,7 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |11    |Then                                                                      |The system sends the position data to the selected team.                 |
 
 
-# 3.US 03
+### 3.US 03
 As State official, I want to receive the position and the victims data, so we can get right to the rescue point faster.
 | SR No | Statements                                                                                                                                           | Description                                                      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
