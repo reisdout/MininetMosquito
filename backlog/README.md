@@ -14,7 +14,7 @@ AS a potential disaster victim,  I´d like to ask for help, by sending my positi
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 1     | Scenario                                   | Sending a position to a Central Agency.                 |
 | 2     | Given                                          | The victim navigates to the initial page.                 |
-| 3     | When                                                  | victim select <report position> button.                     |
+| 3     | When                                                  | victim select *report position* button.                     |
 | 4     | Then                                                             | The system sends cell phone position and personal information to the central.                     |
 | 5     | Given                                                | The victim is waiting for confirmation his data was given.                     |
 | 6     | When                                                   | The confirmation was received.                    |
