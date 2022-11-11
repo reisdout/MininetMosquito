@@ -5,43 +5,24 @@ User stories
 # 1.US 01
 AS a potential disaster victim,  I´d like to ask for help, by sending my position and my health condition, personal information (name, cell phone number …), and receive the feedback that they were given.   So I can be sure that my helpers can find me.
 
-
-
-User story
-AS a potential disaster victim,  I´d like to ask for help, by sending my position and my health condition, personal information (name, cell phone number …), and receive the feedback that they were given.   So I can be sure that my helpers will find me.
-Scenario
-Sending a position to a Central Agency.
-Given
-The victim navigates to the initial page.
-When 
-victim select <report position> button.
-Then
-The system sends cell phone position and personal information to the central. 
-Given
-The victim is waiting for confirmation his data was given.
-When
-The confirmation was received.
-Then
-The system confirms to the victim that his data was given.
-
-
-
-
-
+| SR No | Criteria                                                                                                                                           | Description                                                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 1     | Scenario                                   | Sending a position to a Central Agency.                 |
+| 2     | Given                                          | The victim navigates to the initial page.                 |
+| 3     | When                                                  | victim select <report position> button.                     |
+| 4     | Then                                                             | The system sends cell phone position and personal information to the central.                     |
+| 5     | Given                                                | The victim is waiting for confirmation his data was given.                     |
+| 6     | When                                                   | The confirmation was received.                    |
+| 7     | Then                    | The system confirms to the victim that his data was given.                      |
 
 #2. US 02
 As an Agency Operator, I´d like to know, in real time, the people's position,  personal information (name, cell phone number …)  and condition and forward it to the rescue team and track the situation of each of them. So we can control each rescue mission and try to elaborate a list of potential victims.
 
-
-
-User story
-As an Agency Operator, I´d like to know, in real time, the people's position,  personal information (name, cell phone number …)  and condition and forward it to the rescue team and track the situation of each of them. So we can control each rescue mission and try to elaborate a list of victims.
-Scenario
-Receiving a position from a victim.
-Given
-The operation center is receiving victims’ data.
-When
-New victim data comes from the network.
+| SR No | Criteria                                                                                                                                           | Description                                                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+|1   |Scenario| Receiving a position from a victim.|
+|2|Given|The operation center is receiving victims’ data.|
+|3|When|New victim data comes from the network.|
 Then
 System shows a  <new position icon>, blinking on the operation map.
 Given
