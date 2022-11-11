@@ -31,10 +31,10 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |4     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map.      |
 |5     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
 |6     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
-|7     |Then                                                                      |The system shows *forward position window*.                            |
+|7     |Then                                                                      |The system shows *forward position window*.                              |
 |8     |Given                                                                     |The Agency Operator is focused on the  *<forward position window>*.      |
 |9     |When                                                                      |The Agency Operator selects a rescue team.                               | 
-|10    |And                                                                       |The User selects the <send position> button.                             |
+|10    |And                                                                       |The Agency Operator selects the *send position* button.                  |
 |11    |Then                                                                      |The system sends the position data to the selected team.                 |
 
 
