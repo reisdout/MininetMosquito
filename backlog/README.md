@@ -28,10 +28,10 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |1     |Scenario                                                                  |Receiving a position from a victim.                                     |
 |2     |Given                                                                     |The operation center is receiving victims’ data.                         |
 |3     |When                                                                      |New victim data comes from the network.                                  |
-|4     |Then                                                                      |System shows a  <new position icon>, blinking on the operation map.      |
+|4     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map.      |
 |5     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
 |6     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
-|7     |Then                                                                      |The system shows *<forward position window>*.                            |
+|7     |Then                                                                      |The system shows *forward position window*.                            |
 |8     |Given                                                                     |The Agency Operator is focused on the  *<forward position window>*.      |
 |9     |When                                                                      |The Agency Operator selects a rescue team.                               | 
 |10    |And                                                                       |The User selects the <send position> button.                             |
@@ -45,7 +45,7 @@ As State official, I want to receive the position and the victims data, so we ca
 |1     |Scenario                                                                      |Receiving a position from a Victim.                                  |
 |2     |Given                                                                         |The State official is receiving victims' data.                       |
 |3     |When                                                                          |The System received a victim position, from central.                 |
-|4     |Then                                                                          |System shows a  *<new position icon>*, blinking on the map.          |
+|4     |Then                                                                          |System shows a  *new position icon*, blinking on the map.          |
 |5     |Given                                                                         |The State official is focused on the map of operation.               |
 |6     |When                                                                          |The State official double clicks the blinking icon.                  |
 |7     |Then                                                                          |The system shows a <report window> with the position.                |
