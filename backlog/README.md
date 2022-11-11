@@ -1,6 +1,7 @@
 <a href="https://drive.google.com/file/d/101aLUhSkLsTLgXyhA4Bzn639YjLjZkZK/view?usp=share_link">
 <img alt="Installed Project" src="fig/install.png"/>
 </a>
+
 # GSL Final Course - ITA & Tecnológico de Monterrey
 ## Command and Control to support the operations.
 ## User stories 
