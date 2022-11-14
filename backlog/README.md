@@ -29,14 +29,14 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |2     |Given                                                                     |The operation center is receiving victims’ data.                         |
 |3     |When                                                                      |New victim data comes from the network.                                  |
 |4     |Then                                                                      |System calculates Severity (SEV), based on received data.      |
-|5     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map. The icon is green, if  SEV is low; yellow, if SEV is middle; and red id SEV is high    |
-|5     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
-|6     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
-|7     |Then                                                                      |The system shows *forward position window*.                              |
-|8     |Given                                                                     |The Agency Operator is focused on the  *forward position window*.      |
-|9     |When                                                                      |The Agency Operator selects a rescue team.                               | 
-|10    |And                                                                       |The Agency Operator selects the *send position* button.                  |
-|11    |Then                                                                      |The system sends the position data to the selected team.                 |
+|5     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map. The icon is green, if  SEV is low; yellow, if SEV is middle; and red, if SEV is high.    |
+|6     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
+|7     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
+|8     |Then                                                                      |The system shows *forward position window*.                              |
+|9     |Given                                                                     |The Agency Operator is focused on the  *forward position window*.      |
+|10     |When                                                                      |The Agency Operator selects a rescue team.                               | 
+|11    |And                                                                       |The Agency Operator selects the *send position* button.                  |
+|12    |Then                                                                      |The system sends the position data to the selected team.                 |
 
 
 ### 3.US 03
