@@ -1,4 +1,5 @@
-# MininetMosquito
+# Distress Messager
+
 # 1. Project Description
 The Project focuses on developing a system to support a Command and Control (C2) system to help rescue teams job. The scope covers the physical infrastructure and its integration with the apps. To simulate this scenario, minninet wifi will be used to emulate a drone infrastructure. Those drones will provide a p2p network to transmit information to a central dashboard.
 
