@@ -28,7 +28,8 @@ As an Agency Operator, I´d like to know, in real time, the people's position,  
 |1     |Scenario                                                                  |Receiving a position from a victim.                                     |
 |2     |Given                                                                     |The operation center is receiving victims’ data.                         |
 |3     |When                                                                      |New victim data comes from the network.                                  |
-|4     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map.      |
+|4     |Then                                                                      |System calculates Severity (SEV), based on received data.      |
+|5     |Then                                                                      |System shows a  *new position icon*, blinking on the operation map. The icon is green, if  SEV is low; yellow, if SEV is middle; and red id SEV is high    |
 |5     |Given                                                                     |The Agency Operator is focused on the operation map.                     |
 |6     |When                                                                      |The Agency Operator double clicks the blinking icon.                     |
 |7     |Then                                                                      |The system shows *forward position window*.                              |
