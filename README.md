@@ -34,7 +34,10 @@ Our Team:
 # 5. Licence
 This project is under the GPL license.
 
-# 6. References
+# 6. Deliverables
+  Client and Edge Stage:      https://youtu.be/l0Mx4hqcWck
+
+# 7. References
 
 1. Escudeiro, Andreia, et al. "Command and control system management: a perspective of disaster response actors in Brazil." Production 32 (2022).
 
