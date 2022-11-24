@@ -35,7 +35,8 @@ Our Team:
 This project is under the GPL license.
 
 # 6. Deliverables
-  Client and Edge Stage:      https://youtu.be/l0Mx4hqcWck
+  Client and Edge Stage..........:      https://youtu.be/l0Mx4hqcWck
+  Client and Edge Stage with MQTT:      https://www.youtube.com/watch?v=D801a-fiSbA
 
 # 7. References
 
