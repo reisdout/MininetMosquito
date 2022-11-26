@@ -92,7 +92,9 @@ class App extends Component {
   };
 
   sendMessage = () => {
-    let contentMsg = 1 + ':' + this.state.severity + ':' + 'Loc.';
+    let la = 19.27 + (Math.random() * 0.03);
+    let lo = -99.122 + (Math.random() * .02)
+    let contentMsg = 1 + ':' + this.state.severity + ':' + la + ':'+ lo+":";
 
     let data = JSON.stringify({contentMsg});
     let mgs = new Paho.MQTT.Message(data);
