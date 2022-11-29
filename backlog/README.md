@@ -56,6 +56,12 @@ As State official, I want to receive the position and the victims data, so we ca
 
 
 <h1 align="center">Dashboard requirements </h1>
+
+<p>The dashboard supports the rescue team in identifying and prioritizing which actions are required to keep the disaster victims. In addition, the dashboard will make queries to the database (data source) and process the answer to present the information in a more helpful format.</p>
+
+<p>As we told you before, the users will publish messages where the content is the id, severity, and geo-location. The severity (SEV) is used to calculate the risk, where the risk has three levels: low, middle, or high.</p>
+
+
 <ul>
 <li>A dynamic map where you identify the risk situation colors the node positions.</li>
 <li>A dynamic map where you identify the node positions, and they are colored by the severity situation.</li>
@@ -63,3 +69,4 @@ As State official, I want to receive the position and the victims data, so we ca
 <li>A bar chart shows the number of nodes classified by risk.</li>
 <li>A bar chart shows the number of nodes classified by severity.</li>
 </ul>
+
