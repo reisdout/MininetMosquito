@@ -55,3 +55,11 @@ As State official, I want to receive the position and the victims data, so we ca
 |10    |Then                                                                          |The system records the position data was received.                   |
 
 
+<h1 align="center">Dashboard requirements </h1>
+<ul>
+<li>A dynamic map where you identify the risk situation colors the node positions.</li>
+<li>A dynamic map where you identify the node positions, and they are colored by the severity situation.</li>
+<li>A bar chart shows the number of nodes classified by risk.</li>
+<li>A bar chart shows the number of nodes classified by risk.</li>
+<li>A bar chart shows the number of nodes classified by severity.</li>
+</ul>
