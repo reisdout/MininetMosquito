@@ -21,7 +21,7 @@ Our Team:
 
 | SR No | Name                                                                                                                                           | Contact                                                      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 1     | Adrián Aguilar Sánchez                                    | A01651592@tec.mx                   |
+| 1     | Adrián Lozano González                                    | A01661437@tec.mx                   |
 | 2     | María Fernanda Argueta Wolke                                           | A00830194@tec.mx                  |
 | 3     | Román Mauricio Elías Valencia                                                   | A01656603@tec.mx                      |
 | 4     | David González Alanís                                                             | A01661650@tec.mx                      |
