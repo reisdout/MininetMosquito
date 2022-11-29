@@ -57,6 +57,12 @@ As State official, I want to receive the position and the victims data, so we ca
 
 <h1 align="center">Dashboard requirements </h1>
 
+<ol>
+<li>The dashboard eceives all the MQTT messages from the users in the central broker.</li>
+<li>The central broker will persist the messages in a SQL database.</li>
+<li>The dashboard will make queries in the database and fill the dashboard.</li>
+</ol> 
+  
 <p>The dashboard supports the rescue team in identifying and prioritizing which actions are required to keep the disaster victims. In addition, the dashboard will make queries to the database (data source) and process the answer to present the information in a more helpful format.</p>
 
 <p>As we told you before, the users will publish messages where the content is the id, severity, and geo-location. The severity (SEV) is used to calculate the risk, where the risk has three levels: low, middle, or high.</p>
