@@ -35,8 +35,11 @@ Our Team:
 This project is under the GNU General Public License v3.0.
 
 # 6. Deliverables
-   Client and Edge Stage.......................: https://youtu.be/l0Mx4hqcWck <br>
+Step 2 <br>
+   Client and Edge Stage: https://youtu.be/l0Mx4hqcWck <br>
    Client and Edge Stage with MQTT: https://www.youtube.com/watch?v=D801a-fiSbA <br>
+   <br>
+Step 3 <br>
    Public Grafana Dashboard: https://snapshots.raintank.io/dashboard/snapshot/AnfD4OlztxiTNtW3CfDVqBa2ZmgRUt38
 
 # 7. References
