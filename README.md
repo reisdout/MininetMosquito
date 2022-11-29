@@ -32,7 +32,7 @@ Our Team:
 | 9     | Due Jie Wan                                         |due.wan@ga.ita.br                     |
 
 # 5. Licence
-This project is under the GPL license.
+This project is under the GNU General Public License v3.0.
 
 # 6. Deliverables
    Client and Edge Stage.......................: https://youtu.be/l0Mx4hqcWck <br>
